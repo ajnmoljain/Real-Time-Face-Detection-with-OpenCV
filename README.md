@@ -1,5 +1,4 @@
 # Real-Time-Face-Detection-with-OpenCV
-Real-Time Face Detection with OpenCV
 =====================================
 
 Overview:
